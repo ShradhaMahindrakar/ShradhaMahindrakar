@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ShradhaMahindrakar/ShradhaMahindrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Shradha**, a data analytics graduate based in India.
 
-Here are some ideas to get you started:
+I turn messy data into dashboards and insights that people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If there's a business question hiding in a spreadsheet, chances are I'll dig into it and turn it into a clear story.
+
+My main toolkit is Power BI, SQL, and Python (Pandas, Scikit-learn). I also work with Tableau and Advanced Excel.
+
+I've worked on sales analysis with a star schema, an Airbnb pricing and occupancy dashboard, a data professionals survey analysis, and a UPI fraud detection model. My favorite is the [Asheville Airbnb Dashboard](https://github.com/ShradhaMahindrakar/Aisheville-Airbnb-listing-Analysis/blob/main/Ashville%20Airbnb%20project.pbix).
+
+I recently completed my B.E. in Computer Science and a postgraduate program in Data Science & Analytics from ExcelR, and I'm looking for entry-level Data Analyst roles.
+
+Outside of data, I love sketching, painting, dancing, and spending time with dogs 🐶
+
+Let's connect: [<img width="177" height="148" alt="image" src="https://github.com/user-attachments/assets/e206760b-2e85-4b22-b249-e84b467b7409" />
+](https://linkedin.com/in/shradha-m26) · [<img width="158" height="148" alt="image" src="https://github.com/user-attachments/assets/b8ad4444-b59b-4036-89e8-b1ad088af1a5" />
+](shradhamahindrakar03@gmail.com)
+
