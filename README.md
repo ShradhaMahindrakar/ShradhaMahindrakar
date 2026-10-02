@@ -14,7 +14,9 @@ I recently completed my B.E. in Computer Science and a postgraduate program in D
 
 Outside of data, I love sketching, painting, dancing, and spending time with dogs 🐶
 
-Let's connect: [<img width="177" height="148" alt="image" src="https://github.com/user-attachments/assets/e206760b-2e85-4b22-b249-e84b467b7409" />
-](https://linkedin.com/in/shradha-m26) · [<img width="158" height="148" alt="image" src="https://github.com/user-attachments/assets/b8ad4444-b59b-4036-89e8-b1ad088af1a5" />
+Let's connect: [<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/dffd6b8b-2f5d-431a-b202-5d59415084bc" />
+
+](https://linkedin.com/in/shradha-m26) · [<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/69035664-f78d-4025-955c-02c3220e2931" />
+
 ](shradhamahindrakar03@gmail.com)
 
